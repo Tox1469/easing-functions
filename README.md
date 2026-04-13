@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/easing-functions/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/easing-functions/actions)
+[![License](https://img.shields.io/github/license/Tox1469/easing-functions?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/easing-functions?style=flat-square)](https://github.com/Tox1469/easing-functions/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/easing-functions?style=flat-square)](https://github.com/Tox1469/easing-functions/stargazers)
+
+---
+
 # easing-functions
 
 30+ funções de easing (ease-in, bounce, elastic)
